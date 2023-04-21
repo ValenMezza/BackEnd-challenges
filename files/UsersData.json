@@ -1,0 +1,26 @@
+[
+	{
+		"name": "valentino",
+		"last_name": "mezzavilla",
+		"password": "842859fb74b7d254f212c50fc2b8f5d1801df9badf50210d6e63f9cb74a5d7f1",
+		"salt": "az7RBffoj1s9bteLoso5b00/tsHMdg2laAQDZQ00m3Btl8Vtk0kkm5IBHVYoraCTu2aSbb2uYl2gNoYy8X+F5XgSG0w3d7THNOOzWoRIndsU2r7yhLs4cVzxAH5/3yFqu6u09RtMiSYbQAc/8y5MyyhVXimUxA1s2L7q9Nwc4A0="
+	},
+	{
+		"name": "valentino",
+		"last_name": "mezzavilla",
+		"password": "1ba8cded664ffa49d498ea205c045ce2d04cc447290db60b211bed536987ca6a",
+		"salt": "EbLZFrDtORnhIQCIau05vZTiWDyAyK7po4WvSS0PdTzyN4U6S5DJZsiwa1AfFT+q/kzTZw4G8gbjVwNdaf6AsYnsvE6l+NBCB1WeEhry3ANIFDo8ai6m0DSRT22ea22sNWSwskH6uxnCCZaSNCuQPLEWkL/FUrjsUk4vvQ8/WEQ="
+	},
+	{
+		"name": "valentino",
+		"last_name": "mezzavilla",
+		"password": "1b52a5e66b09ec9622f5f08f0edcf03a4e25470b4f6439812c1c640a878c4120",
+		"salt": "6vWsNDe7vsjB8SndrPNa9gm5h/HNlj13K8saweBEtra6xT6+peh/F2J8yCjEEoPcHLBrpAN6ROa6896hIR95157XYBUnegLbNCQGanIUPnjspqkuBrqH9D8HUCqc46inGd04OKEo+PuSY/YxCa4qc+hl79/t3WR/6PXHn2M8lOw="
+	},
+	{
+		"name": "valentino",
+		"last_name": "mezzavilla",
+		"password": "7fcf1836f28fca83e2d32ee1c3855d9e2ba5f6ad04e555b0bf3df5314c3f9b21",
+		"salt": "t2A40nJ15N2Dl51dFtlnxsHn0NaRiqnilH2yl5yiE9560uxnEAoqjKnd7u9NfELAR4HGDdNggKA8RPXeub2RayRchosxcIMAXCN/DqGx+gFsNSl+tLwdZ+mgQBegh4kjA8c/S/H8cZcyYZGfTF6+1n2v28z0r0xbM8NcHxEChMg="
+	}
+]
