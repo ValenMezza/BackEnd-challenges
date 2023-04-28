@@ -8,7 +8,7 @@ export default class ProductManager {
 
         // Si el archivo existe, lo leemos y lo cargamos en la memoria
         if (fs.existsSync(this.path)) {
-            const data = fs.readFileSync(this.path);
+            const data = fs.readFileSync(this.path); 
             if (data) {
                 this.products = JSON.parse(data);
                 if (this.products.length > 0) {
